@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mlruns/
+outputs/
+.DS_Store
+.env
+*.log
+*.pkl
+# Add any other files/folders you want to ignore
